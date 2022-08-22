@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zouinekh Amine</h1>
 <h3 align="center">A passionate developer from Tunis</h3>
 
-- 🌱 I’m currently learning **Blockchain development**
+- 🌱 I’m currently learning **Blockchain (hardHat,Solidity,web3.js,ethers ...)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zouinekh](https://github.com/zouinekh)
 

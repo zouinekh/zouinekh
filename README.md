@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **zouinekhamine@gmail.com**
 
-- ⚡ Fun fact **I think m obssesd**
+- ⚡ Fun fact ** I can't sleep when there is an error *
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

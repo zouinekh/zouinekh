@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zouinekh Amine</h1>
 <h3 align="center">A passionate developer from Tunis</h3>
-# 💫 About Me:
+💫 About Me:
 🌱 I’m currently learning Blockchain (hardHat,Solidity,web3.js,ethers ...)<br><br>👨‍💻 All of my projects are available at https://github.com/zouinekh<br><br>💬 Ask me about ReactJs,ExpressJS<br><br>📫 How to reach me zouinekhamine@gmail.com<br><br>⚡ Fun fact ** I can't sleep when there is an error *
 
 
